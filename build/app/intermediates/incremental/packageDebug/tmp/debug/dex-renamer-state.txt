@@ -1,4 +1,0 @@
-#Sun Nov 12 18:06:06 SGT 2023
-base.0=/Users/myfirst/Documents/GitHub/ps5_games_browser_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
