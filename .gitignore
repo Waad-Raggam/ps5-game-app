@@ -1,0 +1,16 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Pods/
+ios/Podfile.lock
+android/build/
+android/app/build/
+.idea/
+.vscode/
+*.iml
+*.iws
+*.jks
